@@ -1,4 +1,4 @@
-# vital-conta-landing6 | Vital Conta
+# vital-conta-landing7 | Vital Conta
 
 Landing page institucional da Vital Conta, desenvolvida com React e Vite.
 
@@ -40,7 +40,7 @@ npm run dev
 Acesse no navegador o endereco exibido pelo Vite. Em geral:
 
 ```text
-http://localhost:5173/vital-conta-landing6/
+http://localhost:5173/vital-conta-landing7/
 ```
 
 ## Scripts
@@ -64,13 +64,13 @@ npm run deploy
 O projeto esta configurado para GitHub Pages:
 
 ```text
-https://hudsonneves.github.io/vital-conta-landing6/
+https://hudsonneves.github.io/vital-conta-landing7/
 ```
 
 Repositorio:
 
 ```text
-https://github.com/HudsonNeves/vital-conta-landing6
+https://github.com/HudsonNeves/vital-conta-landing7
 ```
 
 Antes de publicar, gere o build:
@@ -114,7 +114,7 @@ src/
 
 ## Observacoes
 
-O `base` do Vite esta configurado como `/vital-conta-landing6/` em `vite.config.js`, adequado para publicacao no GitHub Pages deste repositorio.
+O `base` do Vite esta configurado como `/vital-conta-landing7/` em `vite.config.js`, adequado para publicacao no GitHub Pages deste repositorio.
 
 ## Google Analytics 4
 
@@ -124,7 +124,7 @@ Crie um arquivo `.env` a partir do `.env.example` e informe o ID da propriedade:
 VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
 ```
 
-O formulário de diagnóstico envia os dados diretamente para `professorhnsilva@gmail.com` usando FormSubmit.
+O formulário de diagnóstico envia os dados diretamente para `vitalcontacontabilidade@gmail.com` usando FormSubmit.
 
 A integracao registra:
 

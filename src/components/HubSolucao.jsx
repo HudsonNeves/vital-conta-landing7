@@ -9,56 +9,56 @@ function HubSolucao() {
     {
       id: 1,
       title: 'Problema Operacional',
-      problem: "Sua empresa fatura bem, mas o lucro 'escorre pelas mãos' devido a processos confusos, retrabalho e desperdício de tempo da equipe?",
-      solution: 'Transformamos o caos operacional em processos previsíveis, permitindo que você pare de apagar incêndios e comece a liderar o crescimento.'
+      problem: "Minha empresa fatura bem, mas o lucro 'escorre pelas mãos' devido a processos confusos, retrabalho e desperdício de tempo da equipe?",
+      solution: 'A Vital transforma o caos operacional em processos previsíveis, permitindo que você pare de apagar incêndios e comece a liderar o crescimento.'
     },
     {
       id: 2,
       title: 'Impostos e Burocracia Fiscal',
       problem: 'Sinto que trabalho para pagar impostos e ainda corro o risco de ser multado por algum erro que nem entendo.',
-      solution: 'Simplificamos a rotina contábil e tributária para manter sua empresa em conformidade, reduzir riscos e identificar oportunidades legais de economia.'
+      solution: 'Com a Vital, simplificamos a rotina contábil e tributária para manter sua empresa em conformidade, reduzir riscos e identificar oportunidades legais de economia.'
     },
     {
       id: 3,
       title: 'Gestão de Fluxo de Caixa',
       problem: 'As receitas entram, mas não sei para onde o dinheiro vai. Não consigo visualizar o que realmente sobra no final do mês.',
-      solution: 'Implementamos clareza absoluta sobre o que entra, o que sai e o que sobra. Você assume o controle total do seu lucro com relatórios que até quem não é da área financeira consegue entender.'
+      solution: 'Aqui na Vital, implementamos clareza absoluta sobre o que entra, o que sai e o que sobra. Você assume o controle total do seu lucro com relatórios que até quem não é da área financeira consegue entender.'
     },
     {
       id: 4,
       title: 'Gestão do Tempo e Operação',
       problem: 'Gasto horas com papelada e tarefas manuais que não trazem um centavo de crescimento para o meu negócio.',
-      solution: 'Reestruturamos tarefas operacionais manuais com processos inteligentes, para que seu tempo seja direcionado à estratégia e à gestão do crescimento.'
+      solution: 'Reestruturamos, aqui na Vital, tarefas operacionais manuais com processos inteligentes, para que seu tempo seja direcionado à estratégia e à gestão do crescimento.'
     },
     {
       id: 5,
       title: 'Segurança na Tomada de Decisão',
       problem: "Sinto que estou 'pilotando no escuro'. Tomo decisões baseadas no meu instinto porque não tenho dados confiáveis para escolher o próximo passo.",
-      solution: 'Troque o "acho" pela certeza. Entregamos indicadores reais de rentabilidade e viabilidade para que cada decisão sua seja baseada em fatos, minimizando riscos e maximizando o retorno.'
+      solution: 'Com a Vital, você troca o "acho" pela certeza. Entregamos indicadores reais de rentabilidade e viabilidade para que cada decisão sua seja baseada em fatos, minimizando riscos e maximizando o retorno.'
     },
     {
       id: 6,
       title: 'Emissão de Notas e Faturamento',
       problem: 'Não faço ideia de como emitir uma nota fiscal e tenho medo de preencher algo errado e pagar imposto dobrado.',
-      solution: 'Faturamento em poucos cliques. Você não precisa lidar com sites lentos e confusos do governo. A Vital Conta oferece um sistema simples e intuitivo, com suporte total da nossa equipe para configurar tudo.'
+      solution: 'Na Vital Conta, o faturamento acontece em poucos cliques. Você não precisa lidar com sites lentos e confusos do governo: oferecemos um sistema simples e intuitivo, com suporte total da nossa equipe para configurar tudo.'
     },
     {
       id: 7,
       title: 'Abertura e Formalização',
       problem: 'Quero formalizar meu negócio e abrir minha empresa, mas tenho medo de cometer erros, pagar multas ou ficar preso em papeladas que eu não entendo.',
-      solution: 'Tiramos sua ideia do papel com segurança. Cuidamos de todo o processo de abertura e formalização, explicando cada passo de um jeito simples para você começar do jeito certo.'
+      solution: 'Na Vital, tiramos a sua ideia do papel com segurança. Cuidamos de todo o processo de abertura e formalização, explicando cada passo de um jeito simples para você começar do jeito certo.'
     },
     {
       id: 8,
       title: 'Dilema do Crescimento',
       problem: 'Minha empresa cresceu, desenquadrei do MEI (ou Simples) e agora não sei o que fazer. Tenho medo de perder todo o meu lucro com novos impostos e burocracia.',
-      solution: 'Cresça sem traumas. Cuidamos de toda a transição de regime tributário e analisamos o melhor caminho para sua empresa continuar expandindo com segurança jurídica e pagando o menor imposto possível dentro da nova categoria.'
+      solution: 'Com a Vital, você cresce sem traumas. Cuidamos de toda a transição de regime tributário e analisamos o melhor caminho para sua empresa continuar expandindo com segurança jurídica e pagando o menor imposto possível dentro da nova categoria.'
     },
     {
       id: 9,
       title: 'Autonomia da Operação',
-      problem: 'Sinto que a empresa só funciona se eu estiver olhando. Se eu me afasto por um dia, as tarefas param, os prazos vencem e a equipe fica perdida.',
-      solution: 'Estruturamos a documentação operacional da sua empresa. Mapeamos processos, responsáveis e padrões de execução para que a rotina funcione com mais autonomia.'
+      problem: 'Sinto que a empresa só funciona se eu estiver olhando. Se me afasto por um dia, as tarefas param, os prazos vencem e a equipe fica perdida sem saber o que fazer.',
+      solution: 'Na Vital, estruturamos a documentação operacional da sua empresa, mapeamos os processos, definimos os responsáveis por cada etapa e criamos padrões de execução para que a rotina funcione com eficiência, mesmo sem a sua presença constante.'
     }
   ]
 

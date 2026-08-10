@@ -4,7 +4,7 @@ import { trackEvent } from '../utils/analytics'
 function WhatsAppFloating() {
   const whatsappNumber = '5561996921053'
   const message = encodeURIComponent('Olá, quero falar com um consultor da Vital Conta.')
-  const whatsappUrl = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${message}`
+  const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${message}`
 
   return (
     <a

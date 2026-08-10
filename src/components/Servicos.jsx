@@ -4,26 +4,28 @@ function Servicos() {
   const categorias = [
     {
       titulo: 'Quero formalizar meu negócio e não sei por onde começar.',
-      descricao: 'Serviços que deixam sua rotina administrativa mais clara e fácil de acompanhar.',
+      descricao: 'Acompanhamento prático para abrir ou regularizar sua empresa sem burocracia.',
       itens: [
-        'Contabilidade explicada passo a passo',
-        'Organização simples do financeiro',
-        'Apoio para suas decisões diárias'
+        'Abertura e regularização do CNPJ sem erros',
+        'Adequação fiscal e emissão de notas simplificada',
+        'Apoio contábil para suas decisões diárias'
       ]
     },
     {
       titulo: 'Quero migrar de MEI para LTDA e preciso de orientação.',
-      descricao: 'Recursos práticos para simplificar rotinas fiscais, acessos e entregas obrigatórias.',
+      descricao: 'Suporte completo e seguro para mudar a razão social da sua empresa com total tranquilidade.',
       itens: [
-        'Controle simples de notas fiscais',
-        'Emissão de Certificado Digital'
+        'Orientação especializada na alteração contratual e junta comercial',
+        'Análise estratégica para a melhor transição de enquadramento tributário',
+        'Adequação do novo CNPJ para emissão de notas e obrigações fiscais'
       ]
     },
     {
       titulo: 'Eu quero crescer sem perder o controle',
-      descricao: 'Acompanhamento para que seu negócio se organize e cresça no ritmo certo.',
+      descricao: 'Estratégia e estrutura para que seu negócio se organize e cresça no ritmo certo.',
       itens: [
         'Ajuda com equipe e rotina de trabalho',
+        'Emissão de Certificado Digital para assinar e delegar com segurança',
         'Treinamentos práticos para seu time'
       ]
     }

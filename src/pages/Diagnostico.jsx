@@ -25,7 +25,7 @@ function Diagnostico() {
 
             <form
               className="diagnostic-form"
-              action="https://formsubmit.co/professorhnsilva@gmail.com"
+              action="https://formsubmit.co/vitalcontacontabilidade@gmail.com"
               method="POST"
               onSubmit={handleSubmit}
             >

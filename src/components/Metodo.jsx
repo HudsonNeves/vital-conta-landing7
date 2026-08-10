@@ -15,7 +15,7 @@ function Metodo() {
     {
       numero: '3',
       titulo: 'Acompanhamento',
-      descricao: 'Monitoramos continuamente sua operação para garantir conformidade e evolução.'
+      descricao: 'Monitoramos continuamente sua operação para garantir conformidade e segurança operacional.'
     },
     {
       numero: '4',
@@ -35,7 +35,7 @@ function Metodo() {
         <h2>Passos simples para organizar sua gestão</h2>
 
         <p className="method-subtitle">
-          Nada de jargão. Um caminho fácil para você entender o que fazer e manter seu negócio funcionando melhor.
+          Sem complicação: um caminho fácil para você entender o que fazer e manter seu negócio funcionando melhor.
         </p>
 
         <div className="method-grid">
